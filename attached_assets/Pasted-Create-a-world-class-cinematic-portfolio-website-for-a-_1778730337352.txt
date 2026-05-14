@@ -1,0 +1,337 @@
+Create a world-class cinematic portfolio website for a modern digital creator named “M. Umair”.
+
+This should NOT look like a normal portfolio or a flashy neon cyberpunk template.
+
+The goal is to create a premium, highly professional, motion-driven digital experience that visually represents creativity, storytelling, editing sense, AI workflows, and modern creator culture through design, animation, interaction, and immersive motion.
+
+The portfolio should feel like a blend of:
+- Apple product presentation quality
+- modern creative agency website
+- high-end motion design showcase
+- cinematic creator brand
+- futuristic AI startup aesthetic
+- premium interactive experience
+
+The experience itself should prove the creator’s skill set without relying only on text.
+
+OVERALL STYLE:
+- Professional dark aesthetic
+- Premium cinematic UI
+- Elegant glassmorphism
+- Soft futuristic lighting
+- Clean luxury design language
+- Motion-driven storytelling
+- Smooth immersive transitions
+- High-end modern typography
+- Subtle 3D depth
+- Interactive premium visuals
+- Sophisticated gradients
+- Modern creator-focused atmosphere
+
+AVOID:
+- cheesy neon overload
+- outdated portfolio layouts
+- generic developer portfolio style
+- cartoonish effects
+- cluttered visuals
+
+The design should feel:
+minimal + cinematic + premium + interactive.
+
+TECH STACK:
+- React
+- Tailwind CSS
+- Framer Motion
+- GSAP
+- Three.js / React Three Fiber
+- Lenis smooth scrolling
+- Performance optimized animations
+- Fully responsive
+
+GLOBAL EXPERIENCE FEATURES:
+- Smooth cinematic scroll experience
+- Interactive cursor trail
+- Mouse-reactive motion
+- Floating ambient particles
+- Dynamic lighting effects
+- Premium hover interactions
+- Smooth section transitions
+- Layered depth/parallax
+- Cinematic loading sequence
+- Floating UI elements
+- Scroll-driven animations
+- Motion-based storytelling
+- Soft futuristic sound effects support
+- Premium micro-interactions
+
+IMPORTANT:
+Use REAL animated technology/platform logos throughout the website.
+
+Include animated logos/icons for:
+- HTML5
+- CSS3
+- Python
+- CapCut
+- Premiere Pro
+- Filmora
+- Canva
+- Photopea
+- Google AI Studio
+- n8n
+- Make.com
+- YouTube
+- AI-related tools/platforms
+
+These logos should:
+- animate smoothly
+- float subtly
+- integrate naturally into the environment
+- feel premium and professional
+- react slightly to cursor movement
+- support the storytelling experience
+
+HERO SECTION:
+Create an immersive fullscreen cinematic hero section.
+
+Include:
+- layered motion background
+- dynamic lighting
+- smooth camera movement
+- floating tech elements
+- cinematic typography
+- premium visual atmosphere
+- subtle 3D depth
+- interactive motion
+
+Main Heading:
+“M. Umair”
+
+Subheading:
+VIDEO EDITOR • AI CONTENT CREATOR • YOUTUBE AUTOMATION SPECIALIST
+
+Animated rotating titles:
+- Video Editor
+- AI Creator
+- Content Strategist
+- Motion Storyteller
+- Automation Specialist
+- Digital Marketer
+
+Intro Text:
+“I create modern digital experiences through cinematic editing, AI-powered workflows, content strategy, and motion-driven storytelling.”
+
+Add:
+- premium CTA buttons
+- elegant hover effects
+- smooth transitions
+- cinematic motion graphics
+
+INTERACTIVE PROFILE SECTION:
+Use the uploaded profile image and transform it into a premium animated visual identity section.
+
+Requirements:
+- subtle mouse-follow movement
+- cinematic rim lighting
+- layered depth/parallax
+- floating soft glow rings
+- smooth breathing animation
+- premium lighting interactions
+- floating particles
+- modern creator aesthetic
+
+This section should feel sophisticated and immersive.
+
+ABOUT SECTION:
+Create a cinematic storytelling section instead of plain paragraphs.
+
+Focus on:
+- Video Editing
+- AI Content Creation
+- YouTube Automation
+- Content Strategy
+- Digital Marketing
+- AI Workflows
+- Motion Storytelling
+- Creative Technology
+
+Use:
+- animated layouts
+- scroll-triggered reveals
+- layered motion
+- elegant transitions
+- floating visual elements
+
+CREATIVE SKILLS SECTION:
+Create premium interactive skill cards for:
+
+- Video Editing
+- YouTube Automation
+- Content Strategy
+- Thumbnail Designing
+- Content Creation
+- Faceless Content
+- AI Automation
+- SEO
+- Digital Marketing
+
+Each card should:
+- animate smoothly
+- glow subtly
+- tilt slightly in 3D
+- react to cursor movement
+- contain elegant motion effects
+- feel premium and modern
+
+TOOLS & TECHNOLOGIES SECTION:
+Create an advanced interactive tools showcase featuring:
+
+- CapCut
+- Premiere Pro (Basic)
+- Filmora
+- Canva
+- Photopea
+- Google AI Studio
+- n8n
+- Make.com
+- HTML
+- CSS
+- Python Programming
+
+Requirements:
+- real animated logos
+- floating motion
+- smooth hover interactions
+- elegant glassmorphism cards
+- subtle 3D movement
+- modern visual presentation
+
+The section should visually communicate:
+“creative + technical hybrid creator.”
+
+CONTENT & CREATIVE EXPERIENCE SECTION:
+Create a visually immersive experience section instead of a boring timeline.
+
+Showcase:
+- creator collaborations
+- AI content projects
+- YouTube automation work
+- short-form editing
+- thumbnail creation
+- digital content workflows
+
+Use:
+- animated transitions
+- cinematic storytelling
+- layered visual presentation
+- smooth reveal effects
+
+THUMBNAIL LIBRARY SECTION:
+This should be one of the most visually impressive sections of the entire website.
+
+The uploaded thumbnails must automatically populate this section.
+
+Create:
+- cinematic thumbnail gallery
+- advanced masonry grid layout
+- smooth reveal animations
+- hover zoom effects
+- fullscreen preview modal
+- elegant lighting effects
+- subtle floating motion
+- premium hover transitions
+- 3D tilt interactions
+- cinematic image presentation
+- modern showcase experience
+
+The thumbnail gallery should feel like:
+a premium digital art exhibition.
+
+VIDEO SHOWCASE SECTION:
+Create immersive showcase cards for:
+- reels
+- AI edits
+- faceless videos
+- YouTube automation content
+- short-form edits
+
+Features:
+- autoplay preview on hover
+- cinematic overlays
+- animated borders
+- elegant hover effects
+- smooth motion interactions
+- premium transitions
+
+AI WORKFLOW SECTION:
+Create a modern animated workflow visualization showing:
+
+Research → Strategy → Script → AI Tools → Editing → Thumbnail → SEO → Publishing
+
+Requirements:
+- interactive animated pipeline
+- premium visual storytelling
+- elegant motion graphics
+- smooth transitions
+- modern startup aesthetic
+
+SPECIALIZED AREAS SECTION:
+Create elegant animated cards for:
+- Faceless Content Creation
+- AI-Assisted Editing
+- YouTube Automation Workflows
+- Retention-Based Editing
+- Thumbnail Strategy
+- SEO Optimization
+- Audience Engagement
+- Digital Marketing
+- AI Workflow Systems
+- Content Planning
+
+CODING & TECH SECTION:
+Create a premium technical section showcasing:
+- HTML
+- CSS
+- Python Programming
+
+Use:
+- animated code snippets
+- terminal-inspired visuals
+- floating tech logos
+- modern UI panels
+- elegant motion effects
+
+This section should reinforce:
+“creative creator with technical understanding.”
+
+SOUND DESIGN:
+Add optional subtle premium UI sounds for:
+- hover interactions
+- clicks
+- transitions
+
+The sounds should feel elegant and immersive, never distracting.
+
+MOBILE EXPERIENCE:
+The mobile version must remain:
+- cinematic
+- premium
+- immersive
+- smooth
+- motion-rich
+- fully responsive
+
+FINAL GOAL:
+The portfolio should feel like:
+“A premium cinematic digital creator experience.”
+
+NOT:
+“A standard portfolio website.”
+
+The entire experience should naturally showcase:
+- creativity
+- editing sense
+- motion understanding
+- AI workflow expertise
+- technical knowledge
+- modern creator branding
+- digital storytelling ability
